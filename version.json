@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "latest_version": "0.1.8",
+  "latest_build_number": 9,
+  "changelog": [
+    "我的页面支持一键复制最近 5 分钟的诊断日志，可直接粘贴到聊天。"
+  ],
+  "android": {
+    "apk_url": "https://cdn.jsdelivr.net/gh/ay612666/WordSpark@downloads/releases/v0.1.8/wordspark-android.apk",
+    "sha256": "2f385ff1032794588ac85941a33556e77e389fada42a835a31eded6a94996914",
+    "file_size": 19513893
+  }
+}
