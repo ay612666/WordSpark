@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "latest_version": "0.1.9",
+  "latest_build_number": 10,
+  "changelog": [
+    "增加面向中国大陆网络的更新镜像，保留 GitHub 更新源。"
+  ],
+  "android": {
+    "apk_url": "https://gcore.jsdelivr.net/gh/ay612666/WordSpark@downloads/android/releases/v0.1.9/wordspark-android.apk",
+    "sha256": "d6fb6ab49d9a6321b6430e7eadf7b38f26227c4e0c6a1ccc998d76c3e82a5541",
+    "file_size": 19513893
+  }
+}
